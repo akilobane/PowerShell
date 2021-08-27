@@ -4,3 +4,4 @@
 Goals
 Learn Git
 Git Gud in Azure and AWS via certs
+Test
