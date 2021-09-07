@@ -10,4 +10,7 @@ Main Commands for Git:
 * git commit -m <heading> -m <description>
 * git push 
 
-
+To fix Git Issues:
+  * git pull --rebase
+  * git rebase --amend
+  * git reset origin
