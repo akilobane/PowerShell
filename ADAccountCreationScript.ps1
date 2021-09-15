@@ -14,3 +14,4 @@
  
 <# Booleans are created like variables e.g $true/$false #>
 <# Read-Host asks for user input. -AsSecureString masks input as *** #>
+<# This is v1.0#>
